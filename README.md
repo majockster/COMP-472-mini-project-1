@@ -1,1 +1,1 @@
-# COMP-477-mini-project-1
+# COMP-472-mini-project-1
