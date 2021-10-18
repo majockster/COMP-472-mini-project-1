@@ -1,0 +1,599 @@
+a)
+**********GaussianNB default values, try 1**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 2**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 3**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 4**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 5**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 6**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 7**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 8**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 9**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********GaussianNB default values, try 10**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,10, 3],
+ [ 2, 2, 2, 0,16]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.78      1.00      0.88         7
+       drugB       0.60      1.00      0.75         3
+       drugC       0.71      1.00      0.83         5
+       drugX       1.00      0.77      0.87        13
+       drugY       0.84      0.73      0.78        22
+
+    accuracy                           0.82        50
+   macro avg       0.79      0.90      0.82        50
+weighted avg       0.85      0.82      0.82        50
+a)
+**********Base DT default values, try 1**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 2**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 3**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 4**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 5**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 6**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 7**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 8**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 9**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Base DT default values, try 10**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT gini, 10, 10, try 1**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT gini, 10, 10, try 2**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT gini, 20, 10, try 3**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT gini, 20, 20, try 4**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT entro, 20, 20, try 5**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50a)
+**********Top DT entro, 20, 30, try 6**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 3, 0, 0, 0, 0],
+ [ 0, 0, 0, 5, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.70      1.00      0.82         7
+       drugB       0.00      0.00      0.00         3
+       drugC       0.00      0.00      0.00         5
+       drugX       0.71      0.92      0.80        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.82        50
+   macro avg       0.47      0.58      0.52        50
+weighted avg       0.70      0.82      0.75        50
+a)
+**********Top DT entro, 20, 30, try 7**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 3, 0, 0, 0, 0],
+ [ 0, 0, 0, 5, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.70      1.00      0.82         7
+       drugB       0.00      0.00      0.00         3
+       drugC       0.00      0.00      0.00         5
+       drugX       0.71      0.92      0.80        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.82        50
+   macro avg       0.47      0.58      0.52        50
+weighted avg       0.70      0.82      0.75        50
+a)
+**********Top DT entro, 10, 30, try 8**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 3, 0, 0, 0, 0],
+ [ 0, 0, 0, 5, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       0.70      1.00      0.82         7
+       drugB       0.00      0.00      0.00         3
+       drugC       0.00      0.00      0.00         5
+       drugX       0.71      0.92      0.80        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.82        50
+   macro avg       0.47      0.58      0.52        50
+weighted avg       0.70      0.82      0.75        50
+a)
+**********Top DT entro, 10, 10, try 9**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
+a)
+**********Top DT entro, 10, 20, try 10**********
+b)
+[[ 7, 0, 0, 0, 0],
+ [ 0, 3, 0, 0, 0],
+ [ 0, 0, 5, 0, 0],
+ [ 0, 0, 0,12, 1],
+ [ 0, 0, 0, 0,22]]
+c) and d)
+              precision    recall  f1-score   support
+
+       drugA       1.00      1.00      1.00         7
+       drugB       1.00      1.00      1.00         3
+       drugC       1.00      1.00      1.00         5
+       drugX       1.00      0.92      0.96        13
+       drugY       0.96      1.00      0.98        22
+
+    accuracy                           0.98        50
+   macro avg       0.99      0.98      0.99        50
+weighted avg       0.98      0.98      0.98        50
