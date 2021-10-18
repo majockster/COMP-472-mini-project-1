@@ -2,3 +2,5 @@ BBC/
 .ipynb_checkpoints/
 BBC-distribution.pdf
 bbc-performance.txt
+drug200.csv
+drug-distribution.pdf
