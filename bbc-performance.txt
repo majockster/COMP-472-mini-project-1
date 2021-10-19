@@ -1,0 +1,240 @@
+a)
+**********MultinomialNB default values, try 1**********
+b)
+[[ 94,  0,  1,  0,  0],
+ [  0, 71,  2,  0,  1],
+ [  0,  0, 83,  0,  0],
+ [  0,  0,  0,108,  0],
+ [  0,  0,  1,  0, 84]]
+c)
+               precision    recall  f1-score   support
+
+     business       1.00      0.99      0.99        95
+entertainment       1.00      0.96      0.98        74
+     politics       0.95      1.00      0.98        83
+        sport       1.00      1.00      1.00       108
+         tech       0.99      0.99      0.99        85
+
+     accuracy                           0.99       445
+    macro avg       0.99      0.99      0.99       445
+ weighted avg       0.99      0.99      0.99       445
+
+d)
+accuracy_score: 0.9887640449438202
+macro_avg: 0.9877450443779043
+weighted_avg: 0.9887941097485962
+e)
+business: 0.2108669195862942
+entertainment: 0.16425423209879755
+politics: 0.18423109816486755
+sport: 0.23972239279283972
+tech: 0.18867040173510533
+f)
+number of unique words: 29421
+g)
+business word-tokens: 134353.0
+entertainment word-tokens: 237261.0
+politics word-tokens: 387922.0
+sport word-tokens: 517476.0
+tech word-tokens: 669983.0
+h)
+corpus word-tokens: 836357
+i)
+business num of words with zero freq: 18670
+percentage: 13.896228591843872%
+entertainment num of words with zero freq: 18732
+percentage: 18.20266645936176%
+politics num of words with zero freq: 19052
+percentage: 12.645608352526533%
+sport num of words with zero freq: 19781
+percentage: 15.268536671966901%
+tech num of words with zero freq: 18801
+percentage: 12.327958716649071%
+j)
+corpus num of words with one freq: 10005
+percentage: 1.196259492059013%
+k)
+for word 00:
+first word log prob: -17.353764963847745
+for word 000:
+first word log prob: -9.998413867422933
+a)
+**********MultinomialNB default values, try 2**********
+b)
+[[ 94,  0,  1,  0,  0],
+ [  0, 71,  2,  0,  1],
+ [  0,  0, 83,  0,  0],
+ [  0,  0,  0,108,  0],
+ [  0,  0,  1,  0, 84]]
+c)
+               precision    recall  f1-score   support
+
+     business       1.00      0.99      0.99        95
+entertainment       1.00      0.96      0.98        74
+     politics       0.95      1.00      0.98        83
+        sport       1.00      1.00      1.00       108
+         tech       0.99      0.99      0.99        85
+
+     accuracy                           0.99       445
+    macro avg       0.99      0.99      0.99       445
+ weighted avg       0.99      0.99      0.99       445
+
+d)
+accuracy_score: 0.9887640449438202
+macro_avg: 0.9877450443779043
+weighted_avg: 0.9887941097485962
+e)
+business: 0.2108669195862942
+entertainment: 0.16425423209879755
+politics: 0.18423109816486755
+sport: 0.23972239279283972
+tech: 0.18867040173510533
+f)
+number of unique words: 29421
+g)
+business word-tokens: 134353.0
+entertainment word-tokens: 237261.0
+politics word-tokens: 387922.0
+sport word-tokens: 517476.0
+tech word-tokens: 669983.0
+h)
+corpus word-tokens: 836357
+i)
+business num of words with zero freq: 18670
+percentage: 13.896228591843872%
+entertainment num of words with zero freq: 18732
+percentage: 18.20266645936176%
+politics num of words with zero freq: 19052
+percentage: 12.645608352526533%
+sport num of words with zero freq: 19781
+percentage: 15.268536671966901%
+tech num of words with zero freq: 18801
+percentage: 12.327958716649071%
+j)
+corpus num of words with one freq: 10005
+percentage: 1.196259492059013%
+k)
+for word 00:
+first word log prob: -17.353764963847745
+for word 000:
+first word log prob: -9.998413867422933
+a)
+**********MultinomialNB default values, try 3**********
+b)
+[[ 94,  0,  1,  0,  0],
+ [  0, 71,  2,  0,  1],
+ [  0,  0, 83,  0,  0],
+ [  0,  0,  0,108,  0],
+ [  0,  0,  1,  0, 84]]
+c)
+               precision    recall  f1-score   support
+
+     business       1.00      0.99      0.99        95
+entertainment       1.00      0.96      0.98        74
+     politics       0.95      1.00      0.98        83
+        sport       1.00      1.00      1.00       108
+         tech       0.99      0.99      0.99        85
+
+     accuracy                           0.99       445
+    macro avg       0.99      0.99      0.99       445
+ weighted avg       0.99      0.99      0.99       445
+
+d)
+accuracy_score: 0.9887640449438202
+macro_avg: 0.9877450443779043
+weighted_avg: 0.9887941097485962
+e)
+business: 0.2108669195862942
+entertainment: 0.16425423209879755
+politics: 0.18423109816486755
+sport: 0.23972239279283972
+tech: 0.18867040173510533
+f)
+number of unique words: 29421
+g)
+business word-tokens: 134353.0
+entertainment word-tokens: 237261.0
+politics word-tokens: 387922.0
+sport word-tokens: 517476.0
+tech word-tokens: 669983.0
+h)
+corpus word-tokens: 836357
+i)
+business num of words with zero freq: 18670
+smoothed percentage (0.0001): 11.3998559600425%
+entertainment num of words with zero freq: 18732
+smoothed percentage (0.0001): 14.155627337922905%
+politics num of words with zero freq: 19052
+smoothed percentage (0.0001): 10.579624893104253%
+sport num of words with zero freq: 19781
+smoothed percentage (0.0001): 12.442836986947633%
+tech num of words with zero freq: 18801
+smoothed percentage (0.0001): 10.334308132887736%
+j)
+corpus num of words with one freq: 10005
+smoothed percentage (0.0001): 1.1556080311581027%
+k)
+for word 00:
+first word log prob: -17.415730454567644
+for word 000:
+first word log prob: -10.060415204809251
+a)
+**********MultinomialNB default values, try 4**********
+b)
+[[ 94,  0,  1,  0,  0],
+ [  0, 71,  2,  0,  1],
+ [  0,  0, 83,  0,  0],
+ [  0,  0,  0,108,  0],
+ [  0,  0,  1,  0, 84]]
+c)
+               precision    recall  f1-score   support
+
+     business       1.00      0.99      0.99        95
+entertainment       1.00      0.96      0.98        74
+     politics       0.95      1.00      0.98        83
+        sport       1.00      1.00      1.00       108
+         tech       0.99      0.99      0.99        85
+
+     accuracy                           0.99       445
+    macro avg       0.99      0.99      0.99       445
+ weighted avg       0.99      0.99      0.99       445
+
+d)
+accuracy_score: 0.9887640449438202
+macro_avg: 0.9877450443779043
+weighted_avg: 0.9887941097485962
+e)
+business: 0.2108669195862942
+entertainment: 0.16425423209879755
+politics: 0.18423109816486755
+sport: 0.23972239279283972
+tech: 0.18867040173510533
+f)
+number of unique words: 29421
+g)
+business word-tokens: 134353.0
+entertainment word-tokens: 237261.0
+politics word-tokens: 387922.0
+sport word-tokens: 517476.0
+tech word-tokens: 669983.0
+h)
+corpus word-tokens: 836357
+i)
+business num of words with zero freq: 18670
+smoothed percentage (0.9): 11.400405436760416%
+entertainment num of words with zero freq: 18732
+smoothed percentage (0.9): 14.156307385380378%
+politics num of words with zero freq: 19052
+smoothed percentage (0.9): 10.580124609899935%
+sport num of words with zero freq: 19781
+smoothed percentage (0.9): 12.443403050794151%
+tech num of words with zero freq: 18801
+smoothed percentage (0.9): 10.334802779121413%
+j)
+corpus num of words with one freq: 10005
+smoothed percentage (0.9): 1.15571197235319%
+k)
+for word 00:
+first word log prob: -17.122984772264985
+for word 000:
+first word log prob: -10.058434456663404
