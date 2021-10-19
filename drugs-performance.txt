@@ -198,6 +198,20 @@ c) and d)
     accuracy                           0.82        50
    macro avg       0.79      0.90      0.82        50
 weighted avg       0.85      0.82      0.82        50
+=====================================================
+avg accuracy GNB: 
+0.82
+avg ma-avg f1 GNB: 
+0.82
+avg w-avg f1 GNB: 
+0.82 
+std accuracy GNB: 
+0.0
+std ma-avg f1 GNB: 
+0.0
+std w-avg f1 GNB: 
+0.0
+=====================================================
 a)
 **********Base DT default values, try 1**********
 b)
@@ -398,6 +412,20 @@ c) and d)
     accuracy                           0.98        50
    macro avg       0.99      0.98      0.99        50
 weighted avg       0.98      0.98      0.98        50
+=====================================================
+avg accuracy BDT: 
+0.98
+avg ma-avg f1 BDT: 
+0.99
+avg w-avg f1 BDT: 
+0.98 
+std accuracy BDT: 
+0.0
+std ma-avg f1 BDT: 
+0.0
+std w-avg f1 BDT: 
+0.0
+=====================================================
 a)
 **********Top DT gini, 10, 10, try 1**********
 b)
@@ -597,6 +625,20 @@ c) and d)
     accuracy                           0.98        50
    macro avg       0.99      0.98      0.99        50
 weighted avg       0.98      0.98      0.98        50
+=====================================================
+avg accuracy TDT: 
+0.932
+avg ma-avg f1 TDT: 
+0.849
+avg w-avg f1 TDT: 
+0.911 
+std accuracy TDT: 
+0.07332121111929346
+std ma-avg f1 TDT: 
+0.21538105766292445
+std w-avg f1 TDT: 
+0.1053992409839843
+=====================================================
 a)
 **********PER, default values, try 1**********
 b)
@@ -797,6 +839,20 @@ c) and d)
     accuracy                           0.54        50
    macro avg       0.28      0.33      0.28        50
 weighted avg       0.40      0.54      0.42        50
+=====================================================
+avg accuracy PER: 
+0.54
+avg ma-avg f1 PER: 
+0.28
+avg w-avg f1 PER: 
+0.42 
+std accuracy PER: 
+0.0
+std ma-avg f1 PER: 
+0.0
+std w-avg f1 PER: 
+0.0
+=====================================================
 a)
 **********Base MLP, default values, try 1**********
 b)
@@ -997,6 +1053,20 @@ c) and d)
     accuracy                           0.50        50
    macro avg       0.19      0.27      0.22        50
 weighted avg       0.35      0.50      0.41        50
+=====================================================
+avg accuracy BMLP: 
+0.50
+avg ma-avg f1 BMLP: 
+0.22
+avg w-avg f1 BMLP: 
+0.41 
+std accuracy BMLP: 
+0.0
+std ma-avg f1 BMLP: 
+0.0
+std w-avg f1 BMLP: 
+0.0
+=====================================================
 a)
 **********Top-MLP, logistic, adam, 40, 60, try 1**********
 b)
@@ -1197,4 +1267,18 @@ c) and d)
     accuracy                           0.50        50
    macro avg       0.19      0.27      0.22        50
 weighted avg       0.35      0.50      0.41        50
+=====================================================
+avg accuracy TMLP: 
+0.556
+avg ma-avg f1 TMLP: 
+0.333
+avg w-avg f1 TMLP: 
+0.484 
+std accuracy TMLP: 
+0.05782732917920385
+std ma-avg f1 TMLP: 
+0.1258610344785073
+std w-avg f1 TMLP: 
+0.07851114570556209
+=====================================================
 
